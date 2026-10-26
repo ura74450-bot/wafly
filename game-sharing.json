@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "title": "Sproutbound Co-op",
+  "description": "Уютная кооперативная ферма для двух игроков: выращивайте восемь культур, помогайте NPC и выполняйте сезонную цель.",
+  "defaultCaptions": {
+    "x": "Sproutbound Co-op — ферма для двоих",
+    "facebook": "Выращивайте ферму вместе в Sproutbound Co-op",
+    "reddit": "A cozy two-player farming MVP built for Render",
+    "discord": "Зайдите на ферму вместе"
+  },
+  "assets": {
+    "favicon": "assets/share/favicon.png"
+  }
+}
